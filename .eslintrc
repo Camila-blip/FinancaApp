@@ -13,7 +13,7 @@
         "sourceType": "module",
         "ecmaVersion": "latest"
     },
-    "plugins": [
+    "plugins": [ 
         "react"
     ],
     "rules": {
