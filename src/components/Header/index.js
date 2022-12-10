@@ -1,4 +1,4 @@
-import {View,StyleSheet,Text,TouchableOpacity} from "react-native";
+import {View,StyleSheet,TouchableOpacity} from "react-native";
 import { StatusBar } from "expo-status-bar";
 import {Feather} from "@expo/vector-icons";
 import {Colors} from "../Colors";
